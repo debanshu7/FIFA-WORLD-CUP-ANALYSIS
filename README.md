@@ -1,6 +1,6 @@
 # FIFA-WORLD-CUP-ANALYSIS
 
-### Note - All the pictorial representation of data might not be present in Jupyter notebook due to some error while uploading so you can refer to the .html version of Jupyter notebook for complete analysis 
+### Note - All the pictorial representation of data might not be present in Jupyter notebook due to some error while uploading so you can refer to the pdf version of Jupyter notebook for complete analysis. If the pdf version shows error while opening, download the pdf using download button present over there. This download would be successful and you can have a complete preview of analysis project.
 
 Problem Statement:
 
