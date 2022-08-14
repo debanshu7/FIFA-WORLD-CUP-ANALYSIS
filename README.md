@@ -1,5 +1,7 @@
 # FIFA-WORLD-CUP-ANALYSIS
 
+## Note - All the pictorial representation of data might not be present in Jupyter notebook due to some error while uploading so, thus you can refer to the pdf version of Jupyter notebook
+
 Problem Statement:
 
 With FIFA being in the blood as many people of the world. You are tasked to tell the story of unsung analysts who put great efforts to provide accurate data to answer every question of fans.
